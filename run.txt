@@ -1,0 +1,6 @@
+go to C:\Program Files\MongoDB\Server\4.0\bin run mongod 
+go to MongoDB Compass Community   and    connect
+cd angularapp and ng Serve
+cd nodeJs and node index.js 
+http://localhost:3000/employees
+http://localhost:4200
